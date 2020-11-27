@@ -9,7 +9,7 @@ description: A Blog about Nothing
 # Author Settings
 author:
   name: Nagarjun Avaraddy
-  image:
+  image: nagarjun_banner.jpeg
   say-hello: Hello, I’m <strong>Nagarjun</strong>
   bio: ML and NLP enthusiast, writes about it. I usually blog layman-explanation of concepts I research, free movie reviews and sneak peak into my select few brain farts. <br>Loves cricket, movies & breaking down complex thoughts.
 
@@ -19,11 +19,9 @@ author:
 twitter: https://twitter.com/naagarjunsa # Add your Twitter handle
 instagram: https://instagram.com/nagarjunsa # Add your Instagram handle
 linkedin: https://www.linkedin.com/in/nagarjun-s-avaraddy #Add your Linkedin handle
-
 #-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: naagarjunsa # add your shortname for Disqus Comment. For example mr-brown
-
 
 #-------------------------------
 # Instagram Feed
@@ -38,4 +36,4 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: github.us7.list-manage.com/subscribe/post?u=f67a4666b0a270ec7fe5c6487&amp;id=3d34815785 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
